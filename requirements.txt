@@ -12,3 +12,4 @@ vina==1.2.2
 scikit-image==0.19.3
 seaborn==0.12.2
 plotly==5.13.1
+scikit-learn==1.2.2
